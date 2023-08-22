@@ -1,0 +1,173 @@
+Result 1 :
+
+PS C:\Users\Admin> python -u "c:\Users\Admin\Desktop\ful_problem1.py"
+2124567890 is a valid contact number.
+212-456-7890 is a valid contact number.     
+(212)456-7890 is an invalid contact number. 
+(212)-456-7890 is an invalid contact number.
+212.456.7890 is a valid contact number.     
+212 456 7890 is a valid contact number.     
++12124567890 is a valid contact number.     
++1 212.456.7890 is a valid contact number.  
++212-456-7890 is a valid contact number.    
+1-212-456-7890 is a valid contact number.   
+PS C:\Users\Admin> 
+
+
+
+Result 2 :
+PS C:\Users\Admin> python -u "c:\Users\Admin\Desktop\ful_problem2.py"
+Enter the website URL: https://ful.io/
+Social links:
+https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What
+https://fonts.googleapis.com"/><link
+https://fonts.gstatic.com"/><link
+https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"/><link  
+https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300;400&amp;display=swap"/><link
+https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@600;700&amp;display=swap"/><link
+https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css"/><link
+https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css"/><link
+http://www.w3.org/2000/svg"
+http://www.w3.org/1999/xlink"
+http://www.w3.org/2000/svg"
+http://www.w3.org/2000/svg"
+https://chrome.google.com/webstore/detail/fulio-free-real-time-sale/adfkbphmnebbfljcdcfjlckobbacdgfn?hl=en-GB">Get
+http://www.w3.org/2000/svg"><g
+http://www.w3.org/2000/svg"><g
+http://www.w3.org/2000/svg"><g
+http://www.w3.org/2000/svg"><g
+http://www.w3.org/2000/svg"><g
+http://www.w3.org/2000/svg"><g
+http://www.w3.org/2000/svg"
+http://www.w3.org/2000/svg"
+http://www.w3.org/2000/svg"
+http://www.w3.org/2000/svg"
+http://www.w3.org/2000/svg"
+http://www.w3.org/1999/xlink"
+https://www.facebook.com/fulioTech/"><svg
+https://www.linkedin.com/company/ful-io/"><svg
+
+Emails:
+type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What
+Ful.io?","acceptedAnswer":{"@type":"Answer","text":"Ful.io
+competitors."}},{"@type":"Question","name":"What
+includes?","acceptedAnswer":{"@type":"Answer","text":"Ful.io
+cover."}},{"@type":"Question","name":"How
+cost?","acceptedAnswer":{"@type":"Answer","text":"We
+technology."}},{"@type":"Question","name":"What
+provide?","acceptedAnswer":{"@type":"Answer","text":"Our
+more!"}},{"@type":"Question","name":"How
+information?","acceptedAnswer":{"@type":"Answer","text":"Our
+daily."}},{"@type":"Question","name":"Can
+lists?","acceptedAnswer":{"@type":"Answer","text":"Yes!
+href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"/><link
+href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300;400&amp;display=swap"/><link
+href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@600;700&amp;display=swap"/><link
+Emoji";background-color:#fff;}@media
+1prfaxn">@-webkit-keyframes
+mui-auto-fill{from{display:block;}}@keyframes
+mui-auto-fill{from{display:block;}}@-webkit-keyframes
+mui-auto-fill-cancel{from{display:block;}}@keyframes
+0ms;}@media
+(min-width:600px){.css-1796lox{padding-left:24px;padding-right:24px;}}@media
+0ms;}.css-17mpv82::-moz-focus-inner{border-style:none;}.css-17mpv82.Mui-disabled{pointer-events:none;cursor:default;}@media
+0.04);}@media
+center;background-image:url("/assets/gradient-bg.svg");padding-top:80px;}.css-v9fvjl{width:100%;margin-left:auto;box-sizing:border-box;margin-right:auto;display:block;padding-left:16px;padding-right:16px;position:relative;}@media
+(min-width:600px){.css-v9fvjl{padding-left:24px;padding-right:24px;}}@media
+Sans',sans-serif;font-weight:700;font-size:2.25rem;line-height:1.2;margin-bottom:16px;font-size:2.1rem!important;text-align:center;margin-top:80px;}@media
+(min-width:600px){.css-awhr4l{font-size:2.9167rem;}}@media
+(min-width:900px){.css-awhr4l{font-size:3.125rem;}}@media
+8%);padding:24px;border-radius:14px;position:absolute;top:20%;right:50%;background-color:white;z-index:50;visibility:hidden;}@media
+(min-width:0px){.css-1f5yt2m{width:300px;}}@media
+(min-width:600px){.css-1f5yt2m{width:600px;}}@media
+Emoji";color:#6C737F;font-size:18px;font-weight:500;text-align:center;}.css-imok49{text-align:center;margin-top:80px;margin-bottom:80px;}.css-1qsxih2{width:100%;margin-left:auto;box-sizing:border-box;margin-right:auto;display:block;padding-left:16px;padding-right:16px;}@media
+(min-width:600px){.css-1qsxih2{padding-left:24px;padding-right:24px;}}@media
+(min-width:1200px){.css-1qsxih2{max-width:1200px;}}.css-1xufzx8{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;}.css-1xufzx8>:not(style)+:not(style){margin:0;margin-top:64px;}.css-1c0cfyw{width:100%;margin-left:auto;box-sizing:border-box;margin-right:auto;display:block;padding-left:16px;padding-right:16px;}@media
+(min-width:600px){.css-1c0cfyw{padding-left:24px;padding-right:24px;}}@media
+(min-width:900px){.css-1c0cfyw{max-width:900px;}}.css-engf8m{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}@media
+(min-width:0px){.css-engf8m{-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;}}@media
+.MuiOutlinedInput-notchedOutline{border-color:#111927;}@media
+24px;margin-left:16px;}.css-1qb8ic7::-moz-focus-inner{border-style:none;}.css-1qb8ic7.Mui-disabled{pointer-events:none;cursor:default;}@media
+0.08);}@media
+0.12);}@media
+(min-width:0px){.css-1qb8ic7{margin-top:20px;}}@media
+2);}@media
+2);display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;}@media
+Sans',sans-serif;font-weight:700;font-size:2rem;line-height:1.2;color:#6366F1;font-size:18px!important;margin-left:10px;}@media
+(min-width:600px){.css-jyij51{font-size:2.5rem;}}@media
+(min-width:900px){.css-jyij51{font-size:2.7083rem;}}@media
+16px;margin-left:16px;width:-webkit-max-content;width:-moz-max-content;width:max-content;}.css-1evii4y::-moz-focus-inner{border-style:none;}.css-1evii4y.Mui-disabled{pointer-events:none;cursor:default;}@media
+0.08);}@media
+Sans',sans-serif;font-weight:700;font-size:1.625rem;line-height:1.2;text-align:center;color:inherit;}@media
+(min-width:600px){.css-gu7v9q{font-size:1.875rem;}}@media
+(min-width:900px){.css-gu7v9q{font-size:2.0833rem;}}@media
+(min-width:1200px){.css-gu7v9q{font-size:2.2917rem;}}.css-czxoyw{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;max-width:1200px;margin-left:auto;margin-right:auto;}@media
+(min-width:0px){.css-czxoyw{-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;}}@media
+Sans',sans-serif;font-weight:700;font-size:1.625rem;line-height:1.2;text-align:center;}@media
+(min-width:600px){.css-j85j6d{font-size:1.875rem;}}@media
+(min-width:900px){.css-j85j6d{font-size:2.0833rem;}}@media
+2);}@media
+var(--Grid-columns));}}@media
+2);}@media
+Sans',sans-serif;font-weight:700;font-size:1.625rem;line-height:1.2;}@media
+(min-width:600px){.css-lje9hy{font-size:1.875rem;}}@media
+(min-width:900px){.css-lje9hy{font-size:2.0833rem;}}@media
+Emoji";color:#6C737F;}.css-10plz83{background-color:#F8F9FA;border-top-color:#F2F4F7;border-top-style:solid;border-top-width:1px;padding-bottom:48px;}@media
+(min-width:0px){.css-10plz83{padding-top:48px;}}@media
+2);}@media
+var(--Grid-columns));}}@media
+var(--Grid-columns));}}@media
+(min-width:0px){.css-1h5ahap{-webkit-order:1;-ms-flex-order:1;order:1;}}@media
+2);}@media
+var(--Grid-columns));}}@media
+var(--Grid-columns));}}@media
+(min-width:0px){.css-1ku0vre{-webkit-order:2;-ms-flex-order:2;order:2;}}@media
+2);}@media
+var(--Grid-columns));}}@media
+var(--Grid-columns));}}@media
+(min-width:0px){.css-ec9d17{-webkit-order:3;-ms-flex-order:3;order:3;}}@media
+href="mailto:support@ful.io"><svg
+
+Contacts:
+29107295-1
+04438 0 0 0 2
+4183 0 8-3
+5817-8-8-8-8 3
+5817-8 8 3
+5817 8 8 8
+5817 8-8 8
+5817-8-8 3
+5817-8 8-8 8 3
+0 0 105 79
+0 0 105 79
+0 0 105 79
+0 0 105 79
+0 0 105 79
+0 0 105 79
+9 18 6-6-6-6
+9 18 6-6-6-6
+9 18 6-6-6-6
+9 18 6-6-6-6
+9 18 6-6-6-6
+9 18 6-6-6-6
+9 18 6-6-6-6
+9 18 6-6-6-6
++1 343 303 6668
+45 1-1 1-9
+61-17-17 0-
+45 1 1 0 1
+0 4-8 5-8-5
+2 2 0 0 1 2 2
+2 2 0 0 1-2 2
+2 2 0 0 1-2-2
+2 2 0 0 1 2-2
+5 0 0 0 12 8
+1 1 0 0 1 1-1
+2 2 0 0 1 2 2
+2 2 0 0 1-2 2
+2 2 0 0 1-2-2
+2 2 0 0 1 2-2
+26 0 0 0-3
+68 0 0 0 1
+69 0 0 0-1
+PS C:\Users\Admin> 
